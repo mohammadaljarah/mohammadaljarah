@@ -1,6 +1,6 @@
 # Hello there 👋
 ### Mohammad AL-Jarah
-- 📫 How to reach me: mohammedqaljarah@gmail.com
+- 📫 Reach me at: mohammedqaljarah@gmail.com
 
 A software engineering student at Istanbul Aydin University, graduating in 2023 (Hopefully :P)
 <!--
