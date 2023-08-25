@@ -2,8 +2,8 @@
 ### Mohammad AL-Jarah
 - 📫 Reach me at: mohammedqaljarah@gmail.com
 
-A software engineering student at Istanbul Aydin University, graduating in 2023 (Hopefully :P)
 <!--
+A software engineering student at Istanbul Aydin University, graduating in 2023 (Hopefully :P)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadaljarah)](https://github.com/mohammadaljarah/github-readme-stats)
 
 
