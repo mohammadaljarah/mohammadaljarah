@@ -1,5 +1,5 @@
 # Hello there! I'm Mohammad AL-Jarah
-- 📫 You can reach me at: mohammedqaljarah@gmail.com
+- 📫 You can reach me at: mohammad@maljarah.com
 
 <br>
 
