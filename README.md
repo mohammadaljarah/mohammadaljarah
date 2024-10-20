@@ -26,6 +26,7 @@
 
   
 <!--
+Cascadia Mono is the font i used to use
 A software engineering student at Istanbul Aydin University, graduating in 2023 (Hopefully :P)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadaljarah)](https://github.com/mohammadaljarah/github-readme-stats)
