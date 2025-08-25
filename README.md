@@ -3,6 +3,7 @@
 
 <br>
 
+<!--
 
 ### Tech
 
@@ -18,11 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/xamarin/xamarin-original.svg" alt="Xamarin/MAUI" width="50" height="50"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"></img>
 
-
-### Languages i speak
-* **Arabic** - Native
-* **English** - C1
-* **Turkish** - A2
+-->
 
   
 <!--
